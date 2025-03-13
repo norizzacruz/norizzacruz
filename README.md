@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Norizza Mae Cruz</h1>
-<h3 align="center">A passionate data analyst who brings data fluency on providing insights for meaningful business driven decisions.</h3>
+![image alt](https://github.com/norizzacruz/norizzacruz/blob/main/Cover%20Img.png?raw=true)
+
+## 🗨️ Introducing Myself
+Hi, I'm Nori. A passionate data analyst who brings data fluency to offer insights  for meaningful business-driven decisions.
 
 - Developing dashboards on Tableau to provide visualization for insights and trends.
 - Querying data using SQL.
