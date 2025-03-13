@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Norizza Mae Cruz</h1>
+<h3 align="center">A passionate data analyst who brings data fluency on providing insights for meaningful business driven decisions.</h3>
 
-<!--
-**norizzacruz/norizzacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Developing dashboards on Tableau to provide visualization for insights and trends.
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Data analysis and reporting using Google Sheets and Excel.
 
-Here are some ideas to get you started:
+### 📚 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my portfolio, where I showcase my [projects] 
+
+### 🛠️ Tools
+
+- Language: SQL,
+- Database: PostgreSQL, MySQL
+- Visualization: Tableau
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/norizza-mae-cruz/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/norizza-mae-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/norizza-mae-cruz" height="30" width="40" /></a>
+</p>
