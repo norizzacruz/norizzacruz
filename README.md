@@ -10,7 +10,9 @@ Hi, I'm Nori. A passionate data analyst who brings data fluency to offer insight
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects] 
+Welcome to my portfolio, where I showcase my 
+- [Projects](https://github.com/norizzacruz/Customer-Churn-Analysis/blob/main/README.md)
+
 
 ### 🛠️ Tools
 
