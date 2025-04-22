@@ -18,8 +18,9 @@ Welcome to my portfolio, where I showcase my projects.
 ### 🛠️ Tools
 
 - Language: SQL,
-- Database: PostgreSQL, MySQL
+- Database: PostgreSQL
 - Visualization: Tableau
+- Tool: Excel
 
 ### 👋🏻 Connect with Me
 
